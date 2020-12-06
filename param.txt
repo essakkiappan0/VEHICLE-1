@@ -9,3 +9,9 @@ The PS4 is the uppermost stage of PSLV,comprising of two earth storable liquid e
 Engine    :2*PS-4
 Fuel      :MMH+MON
 Max.thrust:7.6*2KN
+
+Second stage:PS2
+PSLV uses an earth storable liquid rocket engine for its second stage, know as the Vikas engine,developed by liquid Propulsion System Centre.
+Engine    :Vikas
+Fuel      :UDMH+N204
+Max.thrust:799KN
