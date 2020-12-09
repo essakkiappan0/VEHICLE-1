@@ -13,7 +13,7 @@ Max.thrust:7.6*2kn
 Third Stage :PS3
 The third stage of PS3 is a solid rocket motor that provides the upper stages high thrust after the atmospheric phase of the launch.
 Fuel      :HTPB
-Max.Thrust:240KN
+Max.Thrust:252KN
 
 Second stage:PS2
 PSLV uses an earth storable liquid rocket engine for its second stage, know as the Vikas engine,developed by liquid Propulsion System Centre.
